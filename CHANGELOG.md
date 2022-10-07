@@ -7,7 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Nothing yet!
+### Fixed
+
+- Add `title` and `titleId` props to the React types ([#814](https://github.com/tailwindlabs/heroicons/pull/814))
+- Fix `information-circle` icon alignment ([#846](https://github.com/tailwindlabs/heroicons/pull/846))
+
+## [2.0.11] - 2022-09-12
+
+### Added
+
+- Add new icons (`bug-ant`, `eye-dropper`, `pause-circle`, `play-circle`, `power`, `rocket-launch`, `square-2-stack-3d`, `stop-circle`, `trophy`, `tv`, `viewfinder-circle`, `window`) ([#809](https://github.com/tailwindlabs/heroicons/pull/809))
 
 ## [2.0.10] - 2022-08-30
 
@@ -171,7 +180,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Everything!
 
-[unreleased]: https://github.com/tailwindlabs/heroicons/compare/v2.0.10...HEAD
+[unreleased]: https://github.com/tailwindlabs/heroicons/compare/v2.0.11...HEAD
+[2.0.11]: https://github.com/tailwindlabs/heroicons/compare/v2.0.10...v2.0.11
 [2.0.10]: https://github.com/tailwindlabs/heroicons/compare/v2.0.9...v2.0.10
 [2.0.9]: https://github.com/tailwindlabs/heroicons/compare/v2.0.8...v2.0.9
 [2.0.8]: https://github.com/tailwindlabs/heroicons/compare/v2.0.7...v2.0.8
