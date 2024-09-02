@@ -1,0 +1,11 @@
+{
+  "name": "evelution87/heroicons",
+  "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+  "keywords": [
+    "evelution87",
+    "heroicons"
+  ],
+  "homepage": "https://github.com/evelution87/heroicons",
+  "license": "MIT",
+  "type": "library"
+}
